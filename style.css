@@ -1,0 +1,20 @@
+img { 
+	width: 500px; 
+	height: 300px; 
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+}
+
+body {
+ background-image: url('6.jpg'); 
+}
+
+h1 {
+    color: grey;
+}
+p{
+    color: white;
+}
